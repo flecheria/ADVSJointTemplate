@@ -1,0 +1,3 @@
+﻿Info available for Advance Steel 2018 SDK @:
+Advance Steel 2018 SDK COM API Developer Training Guide.doc
+https://knowledge.autodesk.com/search-result/caas/downloads/content/advance-steel-2018-software-development-kit.html
